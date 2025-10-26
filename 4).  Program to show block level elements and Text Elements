@@ -1,0 +1,20 @@
+<html>
+<body bgcolor-“orange”>
+<h3>HTML Block Level Elements</h3>
+<p>
+      This line will appear in the next line
+      after Heading.
+</p>
+<div style="border: 1px solid black">Hello World</div>
+<p>The P and the DIV elements are both block elements, and they will always start on a new line and take up the full width available <p>
+<hr>
+<h3>HTML Text Elements</h3>
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+<strong>This text is important!</strong>
+<em>This text is emphasized</em>
+<small>This is some smaller text.</small>
+<p>My favorite color is <del>blue</del> <ins>red</ins></p>
+</body>
+</html>
