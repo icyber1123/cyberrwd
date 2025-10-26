@@ -1,0 +1,52 @@
+<html>
+<head>
+   <title>Frame into 4 parts</title>
+</head>
+   <frameset rows="50%, 50% " cols="50%,50%">
+   <frame src = "frame1.html"  name = "frame1">
+   <frame src = "frame2.html" name = "frame2">
+   <frame src = "frame3.html" name = "frame3">
+   <frame src = "frame4.html" name = "frame4">
+<body>
+</body>
+</html>
+
+Frame1.html
+<html>
+<head>
+   <title></title>
+</head>
+<body style = "background-color: seagreen; opacity: 0.5;">
+<body bgcolor=”seagreen”>
+   <h1>First part</h1> 
+</body>
+</html>
+
+Frame2.html
+<html>
+<head>
+   <title></title>
+</head>
+<body style = "background-color: powderblue; opacity: 0.5;"><h1>Second part</h1> 
+</body>
+</html>
+Frame3.html
+
+<html>
+<head>
+   <title></title>
+</head>
+<body style = "background-color: orange; opacity: 0.5;">
+   <h1>Third part</h1>
+</body>
+</html>
+Frame4.html
+
+<html>
+<head>
+ <title></title>
+</head>
+<body style = "background-color: #e1a5e8; opacity: 0.5;">
+   <h1>Fourth part</h1>
+</body>
+</html>
